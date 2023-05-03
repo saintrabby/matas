@@ -3,6 +3,8 @@ import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
 
+//https://spectrummap.kr/cop/bbs/selectBoardList.do?menuNo=300563&bbsId=BBSMSTR_000000000172&gubun=1
+
 export default function Home() {
   return (
     <main
